@@ -1,9 +1,9 @@
-# 📦 Component Name - changelog
+# 📦 Wizard Form - changelog
 
-Use this repository to report bugs and get notified about changes affecting the Component Name component.
+Use this repository to report bugs and get notified about changes affecting the Wizard Form component.
 
-- [Live Demo](https://codyhouse.co/ds/components/app/component-name)
-- [Info Page](https://codyhouse.co/ds/components/info/component-name)
+- [Live Demo](https://codyhouse.co/ds/components/app/wizard-form)
+- [Info Page](https://codyhouse.co/ds/components/info/wizard-form)
 
 Before reporting a bug, please make sure to check the 'info page' of the component. 
 
