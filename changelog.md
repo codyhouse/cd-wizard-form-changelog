@@ -1,6 +1,9 @@
 # Changelog
 All notable changes to this component will be documented in this file.
 
+## [1.1.2] - 2021-12-13
+- Updated steps indicator classes
+
 ## [1.1.1] - 2021-03-31
 - When using the Form Validator option, allow users to go to previous step
 
